@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @RomiBol
-- 👀 I’m interested in expanding my horizons
-- 🌱 I’m currently learning SQL, spreadsheets, Tableau, and Python coding, and it is both challenging and exciting!
 - 📫 You can reach me through my Linkedin profile www.linkedin.com/in/romibo
 
 <!---
